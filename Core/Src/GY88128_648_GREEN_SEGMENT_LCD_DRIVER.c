@@ -1,6 +1,8 @@
 /**
  * @file GY88128_648_GREEN_SEGMENT_LCD_DRIVER.c
  * @brief Corrected LCD Driver for GY88128-648 Green UPS Display
+ * @author Nazmul Huda (pulsestartechnology@gmail.com)
+ * @cell +880 1715-298880
  */
 
 #include "GY88128_648_GREEN_SEGMENT_LCD_DRIVER.h"

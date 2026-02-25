@@ -1,6 +1,8 @@
 /**
  * @file GY88128_648_GREEN_SEGMENT_LCD_DRIVER.h
  * @brief LCD Driver for GY88128-648 Green UPS Display with HT1621
+ * @author Nazmul Huda (pulsestartechnology@gmail.com)
+ * @cell +880 1715-298880
  *
  * Pin Configuration:
  * PC7  (PIN31) - DATA
